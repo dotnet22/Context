@@ -12,7 +12,7 @@
 - **Styling**: Emotion
 - **Routing**: **React Router v7** (`useRoutes` only)
 - **State Management**: Context API / **Zustand v5**
-- **Data fetching**: **React Query v5**
+- **Data fetching**: **React Query v5** along with [`@lukemorales/query-key-factory`](https://raw.githubusercontent.com/lukemorales/query-key-factory/refs/heads/main/README.md)
 - **Form handling**: **React Hook Form v7**
 - **Form validation**: **Zod v4.1.5**
 - **MUI X (DataGrid Pro, TreeView, DatePickers)** where required
