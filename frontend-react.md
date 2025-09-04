@@ -16,7 +16,6 @@
 - **Form handling**: **React Hook Form v7**
 - **Form validation**: **Zod v4.1.5**
 - **MUI X (DataGrid Pro, TreeView, DatePickers)** where required
-- **Apache ECharts (echarts-for-react wrapper)** for charts and dashboards
 - **Testing**: Jest, React Testing Library, Playwright for e2e and responsive testing
 
 ## TypeScript Configuration Standards
